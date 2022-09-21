@@ -1,9 +1,9 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -11,5 +11,19 @@
   "dependencies": {
     "express": "^4.18.1",
     "uuid": "^9.0.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rroip/Note_Taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/rroip/Note_Taker/issues"
+  },
+  "homepage": "https://github.com/rroip/Note_Taker#readme",
+  "description": ""
 }
