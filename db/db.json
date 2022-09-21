@@ -1,9 +1,14 @@
 {
-"notes": [
+  "notes": [
     {
       "title": "",
       "text": "",
       "id": ""
+    },
+    {
+      "title": "New Note",
+      "text": "new text",
+      "id": "3f834d75-c2ee-4839-b82f-7e10fdd98992"
     }
   ]
 }
