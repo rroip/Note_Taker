@@ -12,7 +12,7 @@ The deployed app is linked to clitch.com or can be invoked by node index.js or n
 
 ## Screenshots
 
-Glitch link to the app server [Note_Taker](https://drive.google.com/file/d/10cU_oo5E6gyr7cRjhcnXzVm2-7fQTaBh/view)
+Heroku link to the app server [Note_Taker](https://ssnotetaker.herokuapp.com/)
 
 ![alt Note_Taker schreenshot](./public/assets/images/Note_Taker%20schreenshot.png)
 
